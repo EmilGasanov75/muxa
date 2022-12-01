@@ -1,0 +1,27 @@
+* {
+    cursor: url(./3dwarro.cur), auto;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.muxa {
+    position: relative;
+    background-image: url(./fly.webp);
+    width: 64px;
+    height: 64px;
+    background-size: contain;
+}
+
+.shop {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.shopw {
+    text-align: center;
+}
